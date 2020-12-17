@@ -1,0 +1,5 @@
+﻿  main.cpp
+integer.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall integer::~integer(void)" (??1integer@@QAE@XZ)，该符号在函数 "public: class integer __thiscall integer::operator+(class integer)" (??Hinteger@@QAE?AV0@V0@@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall integer::~integer(void)" (??1integer@@QAE@XZ)
+E:\opencv文件\opencv\build\x64\vc14\lib\opencv_world440d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+H:\linux文件\运算符重载\demo\Debug\demo.exe : fatal error LNK1120: 1 个无法解析的外部命令
